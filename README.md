@@ -1,4 +1,4 @@
-**Analyzing-blinkit-Quick-Commerce-Data-with-Power-BI**
+**Blinkit Quick Commerce Analytics Dashboard**
 
 **Overview**
 
